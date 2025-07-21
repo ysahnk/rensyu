@@ -8,7 +8,8 @@ int main(int argc, char *argv[]) {
 	} else {
 		str = "placeholder";
 	}
-	printf("the length of %s is %d\n", str, strlen(str));
+	printf("the length of argv[1] == %s is %d\n", str, strlen(str));
+	// test line
 
 	return 0;
 }
