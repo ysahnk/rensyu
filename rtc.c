@@ -8,7 +8,7 @@
 int main() {
 	//FILE *fp = fopen("/dev/rtc", "r");
 	//if (NULL == fp) {
-	//	puts("can not open file by fopen()");
+	//	puts("CAN NOT OPEN FILE BY fopen()");
 	//}
 
 	int fd = open("/dev/rtc", O_RDONLY);
