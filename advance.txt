@@ -1,4 +1,5 @@
 advance test
 conflict test line from main branch
 conflict test line from branch
+another conflict test line from main branch
 hotfix test
