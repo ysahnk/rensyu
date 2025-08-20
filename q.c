@@ -73,6 +73,10 @@ int main() {
 		enqueue(que, i);
 	}
 	
+	for (int i = 0; i < 50; i++) {
+		dequeue(que);
+	}
+	
 	deleteQue(que);
 	return 0;
 }
