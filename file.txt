@@ -1,3 +1,7 @@
 main branch
 conflict test
+test
 lines
+stash
+another line
+rebase -i test here
